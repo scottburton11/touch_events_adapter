@@ -6,6 +6,7 @@ Technique by Ross Boucher - http://ross.posterous.com/2008/08/19/iphone-touch-ev
 Usage
 -----
 Initialize touch events for a selector:
+
     TouchEvents.setupTouch($(".my-selector")[0])
 
 The `document.getElementById` style also works.
